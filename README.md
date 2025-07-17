@@ -7,7 +7,7 @@ A procedural name generator written in Python that creates unique, thematic name
 
 The names in the TTRPG *Trophy Dark* have a distinct sonic identity—melodic yet somber, and ancient-feeling. This project was built to programmatically capture that unique aesthetic. Instead of just picking random letters, this generator uses a layered system of rules, weights, and phonetic constraints to produce names that feel authentic to the game's setting of a grim, haunted forest. The original list of 36 names is included in the main code for easy reference.
 
-The goal was not just to create names, but to build a **procedural language engine** that understands and speaks the stylistic language of *Trophy Dark*.
+The goal was not just to create names, but to build a **procedural language engine** that understands and speaks the stylistic language of *Trophy Dark*. If you would like to try a demo, click [here](https://trophydarknamegenerator.streamlit.app/).
 
 ---
 ## Features
