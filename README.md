@@ -73,4 +73,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ---
 ## Acknowledgments
 
-* This project is a fan work inspired by the excellent TTRPG *Trophy Dark*, created by Jesse Ross and published by The Gauntlet.
+* This project is a fan work inspired by the excellent TTRPG [*Trophy Dark*](https://trophyrpg.com/) created by [Jesse Ross](https://jesseross.com/) and published by [The Gauntlet](https://www.gauntlet-rpg.com/).
