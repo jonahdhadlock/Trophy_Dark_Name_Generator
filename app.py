@@ -18,7 +18,9 @@ st.write(
 st.write("---")
 
 # The button to generate names
-if st.button("Generate a New Name"):
-    # When the button is clicked, call your function and display the name
-    generated_name = generate_trophy_name()
-    st.success(f"**{generated_name}**")
+if st.button("Generate 5 New Names"): # Changed button text for clarity
+    # This block now runs a loop FIVE times per click
+    st.write("---") # Add a separator
+    for _ in range(5):
+        generated_name = generate_trophy_name()
+        st.success(f"**{generated_name}**")
