@@ -1,6 +1,6 @@
 # Trophy Dark Name Generator
 
-A procedural name generator written in Python that creates unique, thematic names in the somber, melancholic style of the TTRPG *Trophy Dark* by Jesse Ross and published by The Gauntlet.
+A procedural name generator written in Python that creates unique, thematic names in the somber, melancholic style of the TTRPG [*Trophy Dark*](https://trophyrpg.com/) by [Jesse Ross](https://jesseross.com/) and published by [The Gauntlet](https://www.gauntlet-rpg.com/).
 
 ---
 ## About The Project
