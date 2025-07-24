@@ -160,13 +160,13 @@ def run_generator_session():
 def main():
     """The main entry point for the program."""
     # The original list is not used by the generator, but kept for reference.
-    OFFICIAL_TROPHY_NAMES = ["Akaleh", "Alina", "Aram", "Baso", "Benah", "Daian", "Desarim", "Elisio", "Esfahen",
-                             "Fion",
-                             "Foret", "Ifori", "Inda", "Kasien", "Kel", "Kiva", "Lora", "Mahera", "Masero", "Moradi",
-                             "Neven",
-                             "Nima", "Obeha", "Orlen", "Osto", "Parda", "Pela", "Rasei", "Revel", "Sareh", "Sibil",
-                             "Talia",
-                             "Teodan", "Toram", "Valen", "Vero"]
+    # OFFICIAL_TROPHY_NAMES = ["Akaleh", "Alina", "Aram", "Baso", "Benah", "Daian", "Desarim", "Elisio", "Esfahen",
+                            # "Fion",
+                            # "Foret", "Ifori", "Inda", "Kasien", "Kel", "Kiva", "Lora", "Mahera", "Masero", "Moradi",
+                            # "Neven",
+                            # "Nima", "Obeha", "Orlen", "Osto", "Parda", "Pela", "Rasei", "Revel", "Sareh", "Sibil",
+                            # "Talia",
+                            # "Teodan", "Toram", "Valen", "Vero"]
 
     run_generator_session()
 
